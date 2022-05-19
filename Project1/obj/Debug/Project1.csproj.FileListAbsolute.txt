@@ -1,0 +1,13 @@
+C:\Users\Seth\Downloads\Project1\Project1\bin\Debug\Project1.exe.config
+C:\Users\Seth\Downloads\Project1\Project1\bin\Debug\Project1.exe
+C:\Users\Seth\Downloads\Project1\Project1\bin\Debug\Project1.pdb
+C:\Users\Seth\Downloads\Project1\Project1\obj\Debug\Project1.csproj.AssemblyReference.cache
+C:\Users\Seth\Downloads\Project1\Project1\obj\Debug\Project1.csproj.SuggestedBindingRedirects.cache
+C:\Users\Seth\Downloads\Project1\Project1\obj\Debug\Project1.Form1.resources
+C:\Users\Seth\Downloads\Project1\Project1\obj\Debug\Project1.Properties.Resources.resources
+C:\Users\Seth\Downloads\Project1\Project1\obj\Debug\Project1.csproj.GenerateResource.cache
+C:\Users\Seth\Downloads\Project1\Project1\obj\Debug\Project1.csproj.CoreCompileInputs.cache
+C:\Users\Seth\Downloads\Project1\Project1\obj\Debug\Project1.exe
+C:\Users\Seth\Downloads\Project1\Project1\obj\Debug\Project1.pdb
+C:\Users\Seth\Downloads\Project1\Project1\bin\Debug\FastColoredTextBox.dll
+C:\Users\Seth\Downloads\Project1\Project1\obj\Debug\Project1.csproj.CopyComplete
